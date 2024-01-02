@@ -1,4 +1,4 @@
-# Financial AI Chatbot
+# Financial AI Assistant
 
 ## Overview
 This project implements a Financial AI Chatbot that assists users with stock-related queries, portfolio management, and stock chart analysis. The chatbot is powered by a neural network model using the Neural Intents library.
