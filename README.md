@@ -51,9 +51,6 @@ This project implements a Financial AI Chatbot that assists users with stock-rel
 ## Contributors
 - Jyotsna @jyotsnad246
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Thanks to the creators of the Neural Intents library.
 - Inspired by financial chatbot projects in the open source community.
